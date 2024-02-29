@@ -3,8 +3,7 @@
 
 The following terraform project uses the following microservices architecture in AWS:
 
-![Screenshot from 2023-12-08 18-31-32](https://github.com/shenuka-jayasinghe/microservices/assets/137282472/859d5ad6-c74f-4873-bbbc-b110a8fb281b)
-
+![Screenshot from 2023-12-08 18-31-32](https://github.com/shenuka-jayasinghe/microservices-autoscaling/assets/137282472/8987f2c9-668b-435d-9fcc-ccbb07236582)
 
 
 How to use;
